@@ -33,6 +33,9 @@ have association with dependent variables about amount spent on different items 
 
 My goal in this project is to find the patterns in customers buying behaviours and give useful insights about data to managers looking for data-driven decisions.So they can use it in their future marketing plans and become more successful.
 
+I have used the knowledge of following in this Capstone project:
+
+Python, Pandas, NumPy, Matplotlib and Seaborn
 
 **Project Tasks:**
 
